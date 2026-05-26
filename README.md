@@ -47,7 +47,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+       
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+     The code was executed and verified succesfully.
